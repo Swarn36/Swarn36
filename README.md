@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swarnil Roy</h1>
-<h3 align="center">A passionate data analyst from Bangladesh. Still learning.</h3>
-<img align="right" alt="Data Analysis" width="300" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/data-analysis.gif">
+<h3 align="center"> A passionate data analyst from Bangladesh. Still learning.</h3>
+<img align="right" alt="Data Analysis" width="300" src="[https://www.careerguide.com/career/wp-content/uploads/2020/03/data-analysis.gif](https://www.careerguide.com/career/wp-content/uploads/2020/03/data-analysis.gif)">
 
 - 🌱 I’m currently learning **Unsupervised Machine Learning**
 
