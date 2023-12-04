@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Swarnil Roy</h1>
 <h3 align="center">A passionate data analyst from Bangladesh. Still learning.</h3>
-<img align='right' alt='Data Analysis' width='300' src='[![image](https://github.com/Swarn36/Swarn36/assets/129142508/19411cad-82c9-4a55-bc3b-32b003eb7134)
-](https://i.pinimg.com/originals/e0/41/82/e04182f6094f2764001c1df50b6a2971.gif)'>
+<img align='right' alt='Data Analysis' width='300' src='[[![image](https://github.com/Swarn36/Swarn36/assets/129142508/19411cad-82c9-4a55-bc3b-32b003eb7134)
+](https://i.pinimg.com/originals/e0/41/82/e04182f6094f2764001c1df50b6a2971.gif)](https://i.pinimg.com/originals/e0/41/82/e04182f6094f2764001c1df50b6a2971.gif)](https://www.careerguide.com/career/wp-content/uploads/2020/03/data-analysis.gif)'>
 
 - 🌱 I’m currently learning **Unsupervised Machine Learning**
 
